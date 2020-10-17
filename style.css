@@ -1,0 +1,10 @@
+#formulario input.campo_nome
+{
+  
+  width: 300px;
+}
+
+ :hover #formulario input.btn_submit {
+
+	background:  #f1ff00;
+}
